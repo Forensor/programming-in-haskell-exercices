@@ -89,7 +89,7 @@ count x xs = length [x' | x' <- xs, x == x']
 
 calcStrLetFreq :: String -> [Float]
 calcStrLetFreq xs = [percent (count x (map toLower xs)) n | x <- ['a'..'z']]
-                 where n = length (filter isLetter xs)
+                    where n = length (filter isLetter xs)
 
 -- Chi-square statistic, a method to compare a list of observed freqs with a list of
 -- expected ones.
