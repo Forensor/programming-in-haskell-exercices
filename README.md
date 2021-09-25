@@ -4,6 +4,8 @@ My solutions to the exercices provided in the book *Programming in Haskell 2nd E
 
 ## Contents
 
+### Part I - Basic concepts
+
 1. [Introduction](https://github.com/Forensor/programming-in-haskell-exercices/blob/master/src/Ch1.hs)
 2. [First steps](https://github.com/Forensor/programming-in-haskell-exercices/blob/master/src/Ch2.hs)
 3. [Types and classes](https://github.com/Forensor/programming-in-haskell-exercices/blob/master/src/Ch3.hs)
@@ -12,3 +14,4 @@ My solutions to the exercices provided in the book *Programming in Haskell 2nd E
 6. [Recursive functions](https://github.com/Forensor/programming-in-haskell-exercices/blob/master/src/Ch6.hs)
 7. [Higher-order functions](https://github.com/Forensor/programming-in-haskell-exercices/blob/master/src/Ch7.hs)
 8. [Declaring types and classes](https://github.com/Forensor/programming-in-haskell-exercices/blob/master/src/Ch8.hs)
+9. [The countdown problem](https://github.com/Forensor/programming-in-haskell-exercices/blob/master/src/Ch9.hs)
