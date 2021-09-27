@@ -15,3 +15,12 @@ My solutions to the exercices provided in the book *Programming in Haskell 2nd E
 7. [Higher-order functions](https://github.com/Forensor/programming-in-haskell-exercices/blob/master/src/Ch7.hs)
 8. [Declaring types and classes](https://github.com/Forensor/programming-in-haskell-exercices/blob/master/src/Ch8.hs)
 9. [The countdown problem](https://github.com/Forensor/programming-in-haskell-exercices/blob/master/src/Ch9.hs)
+
+### Part II - Going further
+
+10. [Interactive programming](https://github.com/Forensor/programming-in-haskell-exercices/blob/master/src/Ch10.hs)
+
+### Additionals
+
+1. [Hangman](https://github.com/Forensor/programming-in-haskell-exercices/blob/master/src/Hangman.hs)
+2. [John Conway's Game of Life](https://github.com/Forensor/programming-in-haskell-exercices/blob/master/src/GameOfLife.hs)
