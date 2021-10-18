@@ -20,6 +20,7 @@ My solutions to the exercices provided in the book *Programming in Haskell 2nd E
 
 10. [Interactive programming](https://github.com/Forensor/programming-in-haskell-exercices/blob/master/src/Ch10.hs)
 11. [Unbeatable tic-tac-toe](https://github.com/Forensor/programming-in-haskell-exercices/blob/master/src/Ch11.hs)
+12. [Monads and more](https://github.com/Forensor/programming-in-haskell-exercices/blob/master/src/Ch12.hs)
 
 ### Additionals
 
