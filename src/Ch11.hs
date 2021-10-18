@@ -1,7 +1,8 @@
 module Ch11 where
 
 import TicTacToe
-import System.Random
+import System.Random (randomRIO)
+import Data.List (sortOn)
 
 -- 1. Using gametree, verify that there are 549 946 nodes in the complete game tree for a
 --    3x3 tic-tac-toe game from the empty grid, and that the maximum depth is 9.
